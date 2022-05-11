@@ -1,0 +1,24 @@
+- git:
+    local-name: baxter
+    uri: git@github.com:UCB-ISG/baxter.git
+    version: noetic-devel
+- git:
+    local-name: baxter_common
+    uri: git@github.com:UCB-ISG/baxter_common.git
+    version: noetic-devel
+- git:
+    local-name: baxter_examples
+    uri: git@github.com:UCB-ISG/baxter_examples.git
+    version: noetic-devel
+- git:
+    local-name: baxter_interface
+    uri: git@github.com:UCB-ISG/baxter_interface.git
+    version: noetic-devel
+- git:
+    local-name: baxter_simulator
+    uri: git@github.com:UCB-ISG/baxter_simulator.git
+    version: noetic-devel
+- git:
+    local-name: baxter_tools
+    uri: git@github.com:UCB-ISG/baxter_tools.git
+    version: noetic-devel
